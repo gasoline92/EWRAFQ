@@ -14,7 +14,7 @@ import speedtest
 global lisyl
 lisyl=False
 all_requests=[]
-token = "7684175263:AAFqgWI8dMXEFgpXVYA-F1Dg2ZZT0rO-K5s"
+token = ""
 bot=telebot.TeleBot(token)
 allcontext_by_id={}  
 message_ids={}
